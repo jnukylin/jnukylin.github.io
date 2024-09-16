@@ -1,4 +1,4 @@
-Hux Blog User Manual
+jnukylin Blog User Manual
 ====================
 
 * Basics
@@ -53,13 +53,13 @@ You can easily customize the blog by modifying `_config.yml`:
 
 ```yml
 # Site settings
-title: Hux Blog             # title of your website
-SEOTitle: Hux Blog          # check out docs for more detail
+title: jnukylin Blog             # title of your website
+SEOTitle: jnukylin Blog          # check out docs for more detail
 description: "Cool Blog"    # ...
 
 # SNS settings      
-github_username: huxpro     # modify this account to yours
-weibo_username: huxpro      # the footer woule be auto-updated.
+github_username: jnukylin     # modify this account to yours
+weibo_username: jnukylino      # the footer woule be auto-updated.
 
 # Build settings
 paginate: 10                # nums of posts in one page
@@ -82,7 +82,7 @@ layout:     post
 title:      "Hello 2015"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2015-01-29 12:00:00
-author:     "Hux"
+author:     "jnukylin"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
@@ -192,7 +192,7 @@ To use, in the **front-matter**:
 ```yml
 ---
 layout:     keynote
-iframe:     "http://huangxuan.me/js-module-7day/"
+iframe:     "http://jnukylin-9.top/"
 ---
 ```
 
@@ -231,7 +231,7 @@ ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: jnukylin-9.top
 ```
 
 Just checkout the code offered by Google/Baidu, and copy paste here, all the rest is already done for you.
