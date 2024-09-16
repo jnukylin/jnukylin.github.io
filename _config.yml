@@ -1,6 +1,6 @@
 # Site settings
 title: jnukylin 的个人博客
-SEOTitle: 天全的博客 | Hux Blog
+SEOTitle: 天全的博客 
 header-img: img/home-bg.jpg
 email: jnukylin@qq.com
 description: "这里是 @jnukylin 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 weibo_username: jnukylin
-zhihu_username: jnukylin
+zhihu_username: jnukylin09
 github_username: jnukylin
 twitter_username: jnukylin
 #facebook_username:  huxpro
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: jnukylin
 
 # Netease settings
 netease_comment: false
@@ -70,12 +70,12 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: jnukylin-9.top
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/jnukylin.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
