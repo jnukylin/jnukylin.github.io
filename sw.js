@@ -31,7 +31,7 @@ const PRECACHE_LIST = [
 ]
 const HOSTNAME_WHITELIST = [
   self.location.hostname,
-  "huangxuan.me",
+  "jnukylin-9.top",
   "yanshuo.io",
   "cdnjs.cloudflare.com"
 ]
