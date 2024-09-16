@@ -1,0 +1,32 @@
+
+---
+layout:     post
+title:      "第一篇GitHub博客"
+subtitle:   "这是第一篇GitHub博客"
+date:       2024-09-16
+author:     "jnukylin"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - blog
+    - 日记
+---
+
+
+
+> “Yeah It's on. ”
+
+
+<p id = "build"></p>
+## 该说点什么呢
+
+今天是中秋节假期的第二天，没有出门，在家里看视频。今天跟着实操edgetunne代理和GitHub静态博客。
+
+静态网页，在印象中是在大学里勤工负责学院网站维护，当时是静态的网页，没有太多的网页知识。只是简单听师兄介绍，在后来时间负责静态网页文件修改。
+
+
+
+
+
+
+—— jnukylin 后记于 2024.10
