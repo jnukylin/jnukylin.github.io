@@ -151,7 +151,7 @@ for triplet in solutions:
 
 ![](https://cdn.jsdelivr.net/gh/jnukylin/image@main/main/202273288b6fe2a2a3c7cf18f1c598aa.png)
 
-![](/img/mingziliebiao.png)
+
 
 
 
@@ -164,5 +164,6 @@ for triplet in solutions:
 阳历 2025 年 1 月1 日 0 时 49 分（农历***）出生女孩，她的八字排盘：**年、**月、**日、**时，如果取名为“陈纪名”，请从姓名学（五格剖象法、扶抑格喜用神、生肖喜好等）分析这个名字
 ```
 
+![](/img/mingziliebiao.png)
 
 —— jnukylin 后记于 2025.10
