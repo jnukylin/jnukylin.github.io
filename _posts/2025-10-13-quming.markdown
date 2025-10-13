@@ -4,7 +4,7 @@ title:      "宝宝取名的思路整理"
 subtitle:   "宝宝取名的思路整理"
 date:       2025-10-13
 author:     "jnukylin"
-header-img: "img/post-bg-2025-10-13.jpg"
+header-img: "img/post-bg-kuaidi.jpg"
 catalog: true
 tags:
     - 取名
