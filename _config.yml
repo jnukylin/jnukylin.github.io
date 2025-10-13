@@ -74,7 +74,7 @@ ga_domain: jnukylin-9.top
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有灵魂的人 <br> kylin Team @ jnu"
+sidebar-about-description: "要做一个有灵魂的人 <br>  @ jnukylin"
 sidebar-avatar: /img/R-C.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
