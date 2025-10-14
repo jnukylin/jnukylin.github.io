@@ -6,6 +6,7 @@ date:         2017-07-12 12:00:00
 author:       "Hux"
 header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
 header-mask:  0.3
+published: false
 catalog:      true
 multilingual: true
 tags:
