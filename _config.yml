@@ -69,7 +69,7 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+ga_track_id: "G-DMHXJR3H19" # Format: UA-xxxxxx-xx
 ga_domain: jnukylin-9.top
 
 # Sidebar settings
@@ -91,6 +91,6 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱", href: "http://mia.re/" },
+    
     { title: "Ebn", href: "https://ebn.dev/" },
   ]
