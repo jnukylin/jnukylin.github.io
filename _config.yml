@@ -1,10 +1,10 @@
 # Site settings
-title: jnukylin 的个人博客
-SEOTitle: 天全的博客 
+title: Sean 的个人博客
+SEOTitle: 陈思翰的博客 
 header-img: img/home-bg.jpg
 email: jnukylin@qq.com
-description: "这里是 @jnukylin 的个人博客，与你一起发现更大的世界 | 要做一个有灵魂的人"
-keyword: "jnukylin, 博客, 个人网站, 互联网, "
+description: "这里是 @Sean 的个人博客，与你一起发现更大的世界 | 要做一个有灵魂的人"
+keyword: "Sean, 陈思翰，博客, 个人网站, 互联网, "
 url: "https://blog.jnukylin-09.top" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: jnukylin
-zhihu_username: jnukylin09
+weibo_username: 陈思翰
+zhihu_username: 陈思翰
 github_username: jnukylin
-twitter_username: jnukylin
+twitter_username: 陈思翰
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
