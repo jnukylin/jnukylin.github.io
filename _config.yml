@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: 陈思翰
+weibo_username: 我的名字叫陈思翰
 zhihu_username: 陈思翰
 github_username: jnukylin
 twitter_username: 陈思翰
