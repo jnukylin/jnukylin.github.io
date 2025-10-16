@@ -3,7 +3,7 @@ title: Sean 的个人博客
 SEOTitle: 陈思翰的博客 
 header-img: img/home-bg.jpg
 email: jnukylin@qq.com
-description: "这里是 @Sean 的个人博客，与你一起发现更大的世界 | 要做一个有灵魂的人"
+description: "这里是 @ Sean 的个人博客，与你一起发现更大的世界 | 要做一个有灵魂的人"
 keyword: "Sean, 陈思翰，博客, 个人网站, 互联网, "
 url: "https://blog.jnukylin-09.top" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -74,7 +74,7 @@ ga_domain: jnukylin-9.top
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有灵魂的人 <br>  @ jnukylin"
+sidebar-about-description: "要做一个有灵魂的人 <br>  @ Sean"
 sidebar-avatar: /img/R-C.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
